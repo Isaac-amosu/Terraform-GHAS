@@ -9,6 +9,6 @@ updates:
     directory: "/" # terraform is in the root of the repo
     schedule:
       interval: "weekly"
-    open-pull-requests-limit: 5
+    open-pull-requests-limit: 6
     reviewers:
     -isaac-amosu
